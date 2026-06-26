@@ -56,4 +56,4 @@ IBM Telco Customer Churn Dataset
 ---
 
 ## 👩‍💻 Author
-**Sneha Kharade**
+**Sneha Dilip Kharade**
