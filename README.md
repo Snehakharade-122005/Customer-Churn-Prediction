@@ -28,7 +28,9 @@ This project focuses on analyzing customer churn data from a telecom company. Th
 ---
 
 ## 📂 Dataset
-IBM Telco Customer Churn Dataset
+This project uses the **IBM Telco Customer Churn Dataset**.
+You can download it from Kaggle:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ---
 
