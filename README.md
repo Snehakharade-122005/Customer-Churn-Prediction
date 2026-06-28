@@ -1,8 +1,4 @@
 # 📊 Customer Churn Prediction
-
-## 📌 Project Overview
-This project focuses on analyzing customer churn data from a telecom company. The objective is to identify factors affecting customer churn through Exploratory Data Analysis (EDA), data visualization, and machine learning techniques.
-
 ---
 
 ## 🌐 Live Demo
