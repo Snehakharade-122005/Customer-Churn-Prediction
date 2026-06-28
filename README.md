@@ -5,6 +5,21 @@ This project focuses on analyzing customer churn data from a telecom company. Th
 
 ---
 
+## 🌐 Live Demo
+https://customer-churn-prediction-sneha.streamlit.app/
+
+## 📌 Project Overview
+This project predicts whether a customer is likely to churn using a Logistic Regression machine learning model. The application is built with Streamlit and allows users to enter customer details to receive real-time predictions.
+
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Streamlit
+- Joblib
+- GitHub
+
+  
 ## 🎯 Objectives
 - Perform Exploratory Data Analysis (EDA)
 - Visualize customer behavior
